@@ -1,3 +1,7 @@
+## 🙋 Author
+
+**Madara Weerasingha**  
+🔗 [Kaggle Profile](https://www.kaggle.com/madaraweerasingha)
 # 🌿 Ceylon vs Cassia Cinnamon - Image Classification
 
 This project uses deep learning to classify images of **Ceylon Cinnamon** and **Cassia Cinnamon** using a custom-built Convolutional Neural Network (CNN).
@@ -55,10 +59,7 @@ It contains image samples of:
 
 ---
 
-## 🙋 Author
 
-**Madara Weerasingha**  
-🔗 [Kaggle Profile](https://www.kaggle.com/madaraweerasingha)
 
 ---
 
